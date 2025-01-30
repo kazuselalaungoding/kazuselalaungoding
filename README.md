@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Muhammad Firmansyah
 - 👀 I’m interested in Full Stack Developer
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning JavaScript and Dart
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
